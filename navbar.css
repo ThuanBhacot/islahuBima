@@ -1,0 +1,14 @@
+.navbar-brand {
+  font-weight: 600;
+}
+
+/* CONTENT */
+.selamat-datang {
+  /* background-color: blue; */
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
